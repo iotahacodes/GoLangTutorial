@@ -12,6 +12,6 @@ func main() {
 	b := 85 + 69
 	fmt.Println(b)
 
-	c := "Broooo..."
+	c := "Broooo.."
 	fmt.Println(c)
 }
