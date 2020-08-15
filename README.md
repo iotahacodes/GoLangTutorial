@@ -1,3 +1,3 @@
 # GoLearning
 
-Go programming language fundamentals and exercises
+https://www.udemy.com/course/learn-how-to-code/
