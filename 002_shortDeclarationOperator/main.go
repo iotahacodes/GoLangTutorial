@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+var x = 10
+var y int
+
 func main() {
 	a := 85
 	fmt.Println(a)
@@ -14,4 +17,10 @@ func main() {
 
 	c := "Broooo..."
 	fmt.Println(c)
+
+	nadombe()
+}
+
+func nadombe() {
+	fmt.Println(x, y)
 }
