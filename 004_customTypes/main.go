@@ -2,13 +2,14 @@ package main
 
 import "fmt"
 
+var x string
+
 type jafar string
 
 var y jafar
 
 func main() {
-	x := 85
 	y = "I'm literally in a jafar ://"
-	fmt.Printf("%v\n", y)
+	x = string(y) + "\nnow i (x) am in jafar too :)"
 	fmt.Println(x)
 }
