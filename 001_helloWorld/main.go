@@ -8,13 +8,20 @@ func main() {
 	fmt.Println("I freaking love Golang!")
 	folan()
 
-	for i := 0; i <= 10; i++ {
-		fmt.Print(i)
-		fmt.Print(" ")
+	println("\nPrinting even numbers!.")
+	for i := 0; i <= 20; i++ {
+		if i%2 == 0 {
+			fmt.Print(i)
+			fmt.Print(" ")
+		}
 	}
-	println("Done Counting.")
+	bisar()
 }
 
 func folan() {
 	fmt.Println("Something from folan(). O_O")
+}
+
+func bisar() {
+	fmt.Println("\nExiting the program.")
 }
