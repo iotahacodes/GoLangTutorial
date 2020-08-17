@@ -7,6 +7,12 @@ func main() {
 	fmt.Print("I'm Taha :) ")
 	fmt.Println("I freaking love Golang!")
 	folan()
+
+	for i := 0; i <= 10; i++ {
+		fmt.Print(i)
+		fmt.Print(" ")
+	}
+	println("Done Counting.")
 }
 
 func folan() {
