@@ -1,3 +1,3 @@
 # 002_shortDeclarationOperator
 
-How to use switch, case and default
+How to declare regular and multi-dimensional arrays in GO.
