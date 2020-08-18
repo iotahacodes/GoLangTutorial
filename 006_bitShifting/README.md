@@ -1,3 +1,3 @@
 # 002_shortDeclarationOperator
 
-UAbout shifting bits and using iota.
+About shifting bits and using iota.
