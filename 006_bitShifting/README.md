@@ -1,3 +1,3 @@
 # 002_shortDeclarationOperator
 
-Some other data types like float, strint, bool, etc.
+About shifting a bit and using iota.
